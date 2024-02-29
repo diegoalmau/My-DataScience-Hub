@@ -6,12 +6,12 @@
 Welcome to my Data Science Hub!
 ============================================
 
-Hi there! Welcome to my little corner of the internet. I'm [Diego Almau], a data enthusiast, explorer of the unknown, and, occasionally, a Python whisperer. Before we dive into the nitty-gritty of data science, machine learning, and all things tech, here's a little about my journey and how I got to where I am today.
+Hi there! Welcome to my little corner of the internet. I'm Diego, a data enthusiast, explorer of the unknown, and, occasionally, a Python whisperer. Before we dive into the nitty-gritty of data science, machine learning, and all things tech, here's a little about my journey and how I got to where I am today.
 
 About Me
 -------------------------------
 
-.. template::
+
 
     - **Early Beginnings**: My first steps into data science were in high school, when I started takng and analyzing data for the soccer team to help the coaching staff.
 
@@ -23,6 +23,20 @@ A Spoonful of Humor and Curiosity
 ---------------------------------
 
 Did you know that data scientists are great at parties? They can bring their own "plots"! And speaking of plots, here's a little data science curiosity: The term "machine learning" was coined in 1959 by Arthur Samuel, a pioneer in the field of artificial intelligence. Yet, it took a good few decades before we could truly harness the power of machine learning algorithms to make sense of vast amounts of data.
+
+Websites' projects
+---------------------------------
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   myst_markdown_demos.md
+   ./_notebook_build/_01_example_notebook.ipynb
+   ./_notebook_build/_02_pca_index_visualizations.ipynb
+   ./_notebook_build/_03_pca_index_dashboard.ipynb
+   api.rst
 
 
 Indices and tables
